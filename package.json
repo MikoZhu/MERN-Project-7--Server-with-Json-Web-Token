@@ -1,0 +1,26 @@
+{
+  "name": "mern-project-7--server-with-json-web-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikoZhu/MERN-Project-7--Server-with-Json-Web-Token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikoZhu/MERN-Project-7--Server-with-Json-Web-Token/issues"
+  },
+  "homepage": "https://github.com/MikoZhu/MERN-Project-7--Server-with-Json-Web-Token#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14",
+    "nodemon": "^2.0.7"
+  }
+}
